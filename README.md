@@ -3,7 +3,7 @@
 ## Demo
 [saquet.io](https://saquet.io)
 
-Note, I just got this working on GCP and such on 05-21-2025, will look to update it next week to be more usable!
+The webapp was last updated November 2025. Additionally, the webapp uses a slightly different and more up-to-date version of SAQUET, if you would like access, just shoot me an email! 
 
 ## About
 SAQUET provides an automatic method to apply the 19-criteria Item Writing Flaws for evaluating the quality of multiple-choice questions (MCQs)!  
